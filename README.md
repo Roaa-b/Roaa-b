@@ -18,6 +18,8 @@
  <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
  
 ### 📊 Weekly development breakdown:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
