@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my **portfolio**
 - 👯 I’m looking to collaborate on dev experiments
-- 🌱 I’m currently learning **Next.js** and **3D modeling**
+- 🌱 I’m currently learning **Web development** and **3D modeling**
 
 
 ###  🛠 Technologies and Tools:
