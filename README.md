@@ -29,11 +29,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 July, 2021 - 27 July, 2021
+Week: 22 July, 2021 - 28 July, 2021
 
-JavaScript   17 hrs 38 mins  ████████████████████████▓   99.18 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript   20 hrs 39 mins  ████████████████████████▓   99.30 % 
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
 
