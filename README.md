@@ -1,6 +1,6 @@
 ## Hey 👋!
 
-- 🔭 I’m currently working on my **portfolio**
+- 🔭 I’m currently working on my **Saool**
 - 👯 I’m looking to collaborate on dev experiments
 - 🌱 I’m currently learning **Web development** and **3D modeling**
 
