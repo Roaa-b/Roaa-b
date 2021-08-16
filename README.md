@@ -29,10 +29,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
+Week: 09 August, 2021 - 15 August, 2021
 
-JavaScript   15 hrs 5 mins   █████████████████████████   99.68 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JavaScript   15 hrs 2 mins   █████████████████████████   99.91 % 
 ```
 <!--END_SECTION:waka-->
 
