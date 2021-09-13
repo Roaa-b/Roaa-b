@@ -29,9 +29,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2021 - 11 September, 2021
+Week: 06 September, 2021 - 12 September, 2021
 
-JavaScript   6 hrs 39 mins   █████████████████████████   99.86 % 
+JavaScript   5 hrs 31 mins   █████████████████████████   99.83 % 
 ```
 <!--END_SECTION:waka-->
 
