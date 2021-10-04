@@ -29,10 +29,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2021 - 02 October, 2021
+Week: 27 September, 2021 - 03 October, 2021
 
-JavaScript   6 hrs 22 mins   █████████████████████████   99.74 % 
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+JavaScript   6 hrs 32 mins   █████████████████████████   99.75 % 
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
 
