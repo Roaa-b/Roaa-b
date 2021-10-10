@@ -29,10 +29,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2021 - 08 October, 2021
+Week: 03 October, 2021 - 09 October, 2021
 
-JavaScript   6 hrs 13 mins   █████████████████████████   99.73 % 
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JavaScript   2 hrs 57 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
