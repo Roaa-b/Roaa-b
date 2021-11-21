@@ -29,9 +29,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2021 - 19 November, 2021
+Week: 14 November, 2021 - 20 November, 2021
 
-JavaScript   1 hr 32 mins    █████████████████████████   100.00 % 
+JavaScript   57 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
