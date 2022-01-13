@@ -29,9 +29,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
-JavaScript   2 hrs 42 mins   █████████████████████████   100.00 % 
+JavaScript   5 hrs 22 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
