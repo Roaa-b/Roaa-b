@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
+From: 14 April 2022 - To: 21 April 2022
 
 PHP          5 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.52 %
 JavaScript   5 hrs 39 mins   ██████████▒░░░░░░░░░░░░░░   41.15 %
