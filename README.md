@@ -30,11 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 13 July 2022
-
-HTML         4 hrs 55 mins   ████████████████████████▒   97.28 %
-CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
