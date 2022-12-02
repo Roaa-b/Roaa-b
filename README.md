@@ -30,11 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
-
-JavaScript   12 mins         ██████████████████░░░░░░░   71.48 %
-JSON         3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-Git Config   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
