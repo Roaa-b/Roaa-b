@@ -30,7 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 December 2022 - To: 11 December 2022
+
+HTML         6 mins          ████████████████████████▓   98.37 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
