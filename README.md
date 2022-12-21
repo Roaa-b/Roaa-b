@@ -30,13 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
+From: 13 December 2022 - To: 20 December 2022
 
-Python       2 hrs 48 mins   ██████████▓░░░░░░░░░░░░░░   42.74 %
-HTML         1 hr 47 mins    ███████░░░░░░░░░░░░░░░░░░   27.40 %
-CSS          1 hr 33 mins    ██████░░░░░░░░░░░░░░░░░░░   23.80 %
-Git          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Dart         47 mins         ████████████████████░░░░░   79.94 %
+Git Config   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 ```
 
 <!--END_SECTION:waka-->
