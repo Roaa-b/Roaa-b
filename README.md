@@ -30,11 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
-
-Dart         44 mins         ███████████████████▓░░░░░   78.87 %
-Git Config   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
