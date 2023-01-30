@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 28 January 2023
+From: 22 January 2023 - To: 29 January 2023
 
 Dart       9 hrs           ████████████████████▒░░░░   80.86 %
 YAML       1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
