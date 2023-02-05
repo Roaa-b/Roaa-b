@@ -30,10 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-Dart         6 hrs 23 mins   ██████████████████████▓░░   90.01 %
-Other        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Dart         6 mins          ████████████████████▓░░░░   82.82 %
+JavaScript   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
 ```
 
 <!--END_SECTION:waka-->
