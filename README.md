@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
+From: 31 January 2023 - To: 07 February 2023
 
 Dart         6 mins          ████████████████████▓░░░░   82.82 %
 JavaScript   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
