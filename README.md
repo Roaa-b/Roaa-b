@@ -30,10 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 February 2023 - To: 08 February 2023
+From: 02 February 2023 - To: 09 February 2023
 
-Dart         6 mins          ████████████████████▓░░░░   82.82 %
-JavaScript   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
