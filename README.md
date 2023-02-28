@@ -30,9 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 February 2023 - To: 26 February 2023
+From: 20 February 2023 - To: 27 February 2023
 
-Git Config   0 secs          █████████████████████████   100.00 %
+JavaScript   12 mins         ███████████████████████▒░   93.70 %
+Git Config   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
