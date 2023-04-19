@@ -30,13 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Dart         20 hrs 12 mins  ███████████████████▓░░░░░   78.55 %
-JavaScript   2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Python       2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-YAML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Dart         23 hrs 57 mins  █████████████████████▒░░░   85.60 %
+JavaScript   3 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+YAML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
