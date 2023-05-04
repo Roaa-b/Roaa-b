@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 April 2023 - To: 02 May 2023
+From: 26 April 2023 - To: 03 May 2023
 
-Dart         22 hrs 3 mins   ███████████████████▓░░░░░   78.71 %
-JavaScript   5 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Dart         15 hrs 22 mins  ████████████████████▒░░░░   81.26 %
+JavaScript   3 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
