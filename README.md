@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 April 2023 - To: 06 May 2023
+From: 30 April 2023 - To: 07 May 2023
 
 Dart         4 hrs 15 mins   ███████████████████▓░░░░░   78.91 %
 Python       39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
