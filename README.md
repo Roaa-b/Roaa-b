@@ -12,7 +12,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
  <a href="https://material-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material-UI" width="40" height="40"/> </a>
- <a href="https://graphql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="graphql" width="40" height="40"/> </a>
+<!--  <a href="https://graphql.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="graphql" width="40" height="40"/> </a> -->
  <a href="https://www.apollographql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="apollo" width="40" height="40"/> </a>
  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="40" height="40"/> </a>
  <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
