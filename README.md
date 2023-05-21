@@ -30,9 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2023 - To: 19 May 2023
+From: 13 May 2023 - To: 20 May 2023
 
-Python   14 mins         █████████████████████████   100.00 %
+Common Lisp   2 hrs           █████████████████████▒░░░   85.50 %
+Python        14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+newLISP       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
