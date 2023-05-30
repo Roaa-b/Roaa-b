@@ -30,11 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2023 - To: 28 May 2023
+From: 22 May 2023 - To: 29 May 2023
 
-XML      3 hrs 17 mins   ██████████████▓░░░░░░░░░░   58.02 %
-Python   2 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.32 %
-Java     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+XML           3 hrs 17 mins   ████████████░░░░░░░░░░░░░   48.00 %
+Python        2 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.36 %
+Common Lisp   1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+Java          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
