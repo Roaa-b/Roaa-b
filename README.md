@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2024 - To: 24 January 2024
+From: 18 January 2024 - To: 25 January 2024
 
 TypeScript   7 hrs 6 mins    ██████████████████████░░░   88.57 %
 CSS          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
