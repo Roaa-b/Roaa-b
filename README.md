@@ -7,22 +7,3 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
- 
-### 📊 Weekly development breakdown:
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 02 August 2024 - To: 09 August 2024
-
-TypeScript    3 hrs 45 mins   ████████████████████████░   95.70 %
-Other         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-JSON          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-```
-
-<!--END_SECTION:waka-->
-
-
